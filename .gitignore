@@ -1,0 +1,8 @@
+# Datos de trabajo de cada zona de estudio
+data/
+
+# Entorno local de Python y archivos temporales de Jupyter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
